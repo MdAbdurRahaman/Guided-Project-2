@@ -42,3 +42,8 @@ logs/*.log
 .idea/
 .DS_Store
 Thumbs.db
+
+# Excluded assignment notes
+LINKEDIN_POST.md
+VIDEO_TRANSCRIPT.md
+
