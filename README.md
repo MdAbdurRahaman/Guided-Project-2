@@ -1,10 +1,13 @@
 # 🎯 End-to-End Customer Segmentation AI Engine
 
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://guided-project-2-defacs3qr4hvduerydueaj.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-F7931E.svg)](https://scikit-learn.org/)
 [![Database](https://img.shields.io/badge/Database-MongoDB-47A248.svg)](https://www.mongodb.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 🚀 **Live Interactive Demo**: Access the deployed web application live on Streamlit Community Cloud: **[guided-project-2-defacs3qr4hvduerydueaj.streamlit.app](https://guided-project-2-defacs3qr4hvduerydueaj.streamlit.app/)**
 
 An end-to-end production-grade Data Science & Machine Learning platform for **Customer Segmentation** built with Python, Streamlit, Scikit-Learn, and MongoDB. The system processes raw e-commerce transaction data, calculates **RFM (Recency, Frequency, Monetary)** features, handles distribution skewness via log-transformation, and groups customers into distinct actionable personas using unsupervised clustering algorithms (**K-Means**, **Hierarchical Clustering**, **DBSCAN**, and **GMM**).
 
